@@ -1,19 +1,4 @@
-name: Founders Network
-favicon: null
-layout_spectrum: 0.8387582686264068
 typography_spectrum: 0.4291310061234981
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,19 @@ color:
   lightness: 0.21818454167805612
   saturation: 0.7899303121957928
   rhythmicContrast: 0.21402363060042262
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8387582686264068
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Founders Network
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
